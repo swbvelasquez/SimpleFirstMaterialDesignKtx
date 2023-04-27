@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SimpleFirstMaterialDesignKtx</string>
+    <string name="button_login_text">Iniciar Sesion</string>
+    <string name="text_view_title_text">Bienvenido</string>
 </resources>
